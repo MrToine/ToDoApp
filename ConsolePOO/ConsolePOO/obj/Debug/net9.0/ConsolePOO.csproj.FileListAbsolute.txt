@@ -1,0 +1,14 @@
+C:\Users\s_13459_gamedev\Documents\Rider\ConsolePOO\ConsolePOO\bin\Debug\net9.0\ConsolePOO.exe
+C:\Users\s_13459_gamedev\Documents\Rider\ConsolePOO\ConsolePOO\bin\Debug\net9.0\ConsolePOO.deps.json
+C:\Users\s_13459_gamedev\Documents\Rider\ConsolePOO\ConsolePOO\bin\Debug\net9.0\ConsolePOO.runtimeconfig.json
+C:\Users\s_13459_gamedev\Documents\Rider\ConsolePOO\ConsolePOO\bin\Debug\net9.0\ConsolePOO.dll
+C:\Users\s_13459_gamedev\Documents\Rider\ConsolePOO\ConsolePOO\bin\Debug\net9.0\ConsolePOO.pdb
+C:\Users\s_13459_gamedev\Documents\Rider\ConsolePOO\ConsolePOO\obj\Debug\net9.0\ConsolePOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_13459_gamedev\Documents\Rider\ConsolePOO\ConsolePOO\obj\Debug\net9.0\ConsolePOO.AssemblyInfoInputs.cache
+C:\Users\s_13459_gamedev\Documents\Rider\ConsolePOO\ConsolePOO\obj\Debug\net9.0\ConsolePOO.AssemblyInfo.cs
+C:\Users\s_13459_gamedev\Documents\Rider\ConsolePOO\ConsolePOO\obj\Debug\net9.0\ConsolePOO.csproj.CoreCompileInputs.cache
+C:\Users\s_13459_gamedev\Documents\Rider\ConsolePOO\ConsolePOO\obj\Debug\net9.0\ConsolePOO.dll
+C:\Users\s_13459_gamedev\Documents\Rider\ConsolePOO\ConsolePOO\obj\Debug\net9.0\refint\ConsolePOO.dll
+C:\Users\s_13459_gamedev\Documents\Rider\ConsolePOO\ConsolePOO\obj\Debug\net9.0\ConsolePOO.pdb
+C:\Users\s_13459_gamedev\Documents\Rider\ConsolePOO\ConsolePOO\obj\Debug\net9.0\ConsolePOO.genruntimeconfig.cache
+C:\Users\s_13459_gamedev\Documents\Rider\ConsolePOO\ConsolePOO\obj\Debug\net9.0\ref\ConsolePOO.dll
